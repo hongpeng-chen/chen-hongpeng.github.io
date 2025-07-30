@@ -40,7 +40,7 @@ _IEEE Transactions on Industrial Informatics_ (Under revision)
 - Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees.
 - We proposed a grounded multi-agent planning framework (GLaM-P) that integrates vision-language models (VLMs) and large language models (LLMs) to enable zero-shot symbolic task planning in industrial environments.
 
-**Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees**
+Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees
 
 **Hongpeng Chen**, Shimin Liu, Zhiyuan Li, David Navarro-Alarcon, Pai Zheng
 
