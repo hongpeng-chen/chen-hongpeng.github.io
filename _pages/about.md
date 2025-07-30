@@ -15,50 +15,104 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+I am **Hongpeng Chen**, a Ph.D. candidate at the Department of Industrial and Systems Engineering, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), under the supervision of [Prof. Pai Zheng](https://www.polyu.edu.hk/en/ise/people/academic-staff/pai-zheng/) and [Prof. David Navarro-Alarcon](https://www.polyu.edu.hk/me/people/academic-teaching-staff/david-navarro-alarcon-prof/).
 
-I’m Hongpeng Chen, a Ph.D. candidate at The Hong Kong Polytechnic University, researching intelligent robotics and human-robot collaboration. I focus on integrating AI and robotics to build practical, human-centered solutions for smart manufacturing.
+My research interests include **robotics**, **machine learning**, and **computer vision**, with a focus on:
+- Human-robot collaboration  
+- Robot perception and learning  
+- Task and motion planning  
+
+During my Ph.D. study, I have also received guidance from [Prof. Lihui Wang](https://www.kth.se/profile/lihuiw) and [Prof. Charlie Yang](https://www.liverpool.ac.uk/people/charlie-yang).
 
 # 🔥 Research Interests
 Robot manipulation; Task and motion planning; Robot learning; Robot Dynamics; Simulation-to-Reality (Sim2Real); Vision-Language Model; Human-Robot Collaboration.
 
 # 📝 Publications 
 
-1. **Hongpeng Chen**, Shimin Liu, Zhiyuan Li, Liqiao Xia, David Navarro-Alarcon, Pai Zheng.  
-   *GLaM-P: A grounded language model-based multi-agent system for long-horizon robotic task planning in industrial settings.*  
-   _IEEE Transactions on Industrial Informatics_ (Under revision).
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Industrial Informatics</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+GLaM-P: A grounded language model-based multi-agent system for long-horizon robotic task planning in industrial settings.
 
-2. Wenhang Dong, Dongpeng Li, Yuchen Ji, **Hongpeng Chen**, Shimin Liu, Pai Zheng.  
-   *Towards a next-generation LLM empowered low-code programming industrial robotic system for human-centric smart manufacturing.*  
-   _Journal of Manufacturing System_ (Under revision).
+**Hongpeng Chen**, Shimin Liu, Zhiyuan Li, Liqiao Xia, David Navarro-Alarcon, Pai Zheng
 
-3. **Hongpeng Chen**, Shengzeng Huo, Muhammad Muddassir, Hoi-Yin Lee, Yuli Liu, Junxi Li, Anqing Duan, Pai Zheng, David Navarro-Alarcon.  
-   *<a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=Zn4ROH4AAAAJ&citation_for_view=Zn4ROH4AAAAJ:2osOgNQ5qMEC" target="_blank">PSO-based optimal coverage path planning for surface defect inspection of 3C components with a robotic line scanner</a>.*  
-   _IEEE Transactions on Instrumentation and Measurement_ (2025), accepted. <span class='show_paper_citations' data='Zn4ROH4AAAAJ:2osOgNQ5qMEC'></span>
+_IEEE Transactions on Industrial Informatics_ (Under revision)
 
-4. **Hongpeng Chen**, Shufei Li, Junming Fan, Anqing Duan, Chenguang Yang, David Navarro-Alarcon, Pai Zheng.  
-   *<a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=Zn4ROH4AAAAJ&citation_for_view=Zn4ROH4AAAAJ:UeHWp8X0CEIC" target="_blank">Human-in-the-loop robot learning for smart manufacturing: A human-centric perspective</a>.*  
-   _IEEE Transactions on Automation Science and Engineering_ (2025), accepted. <span class='show_paper_citations' data='Zn4ROH4AAAAJ:UeHWp8X0CEIC'></span>
+- Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees.
+- We proposed a grounded multi-agent planning framework (GLaM-P) that integrates vision-language models (VLMs) and large language models (LLMs) to enable zero-shot symbolic task planning in industrial environments.
+</div>
+</div>
 
-5. **Hongpeng Chen**, Handong Xu, Zhensheng Yang.  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing System</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Towards a next-generation LLM empowered low-code programming industrial robotic system for human-centric smart manufacturing.
+
+Wenhang Dong, Dongpeng Li, Yuchen Ji, **Hongpeng Chen**, Shimin Liu, Pai Zheng
+
+_Journal of Manufacturing System_ (Under revision)
+
+- We Proposed a next-generation low-code programming framework for industrial robots that empowers unskilled operators to perform complex tasks via natural language instructions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Instrumentation and Measurement</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+PSO-based optimal coverage path planning for surface defect inspection of 3C components with a robotic line scanner
+
+**Hongpeng Chen**, Shengzeng Huo, Muhammad Muddassir, Hoi-Yin Lee, Yuli Liu, Junxi Li, Anqing Duan, Pai Zheng, David Navarro-Alarcon
+
+_IEEE Transactions on Instrumentation and Measurement_ (2025), accepted. <span class='show_paper_citations' data='Zn4ROH4AAAAJ:2osOgNQ5qMEC'></span>
+
+- We developed a robotic inspection framework combining line-scan imaging with a PSO-based optimal coverage path planning method for surface defect detection on 3C free-form components.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Automation Science and Engineering</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Human-in-the-loop robot learning for smart manufacturing: A human-centric perspective
+
+**Hongpeng Chen**, Shufei Li, Junming Fan, Anqing Duan, Chenguang Yang, David Navarro-Alarcon, Pai Zheng
+
+_IEEE Transactions on Automation Science and Engineering_ (2025), accepted. <span class='show_paper_citations' data='Zn4ROH4AAAAJ:UeHWp8X0CEIC'></span>
+
+- We made a survey about Human-in-the-Loop (HITL) robot learning for smart manufacturing and proposed a unified human-centric HITL framework that integrates human perception, cognition, behavior, and empathy to enhance robot learning and decision-making in dynamic manufacturing environments.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ASME AIM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+LLM-Augmented multi-Fidelity Bayesian Optimization for Parameter Optimization in Human-Robot Collaborative Assembly
+
+Liqiao Xia, **Hongpeng Chen**, Jiazhen Pang, Shimin Liu, Pai Zheng
+
+_2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics_ (Accepted)
+
+- We proposed a multi-fidelity Bayesian optimization framework that incorporates an LLM as a physics-informed low-fidelity surrogate, aiming to reduce the need for expensive high-fidelity experiments in human-robot collaborative assembly (HRCA)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICRA 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Semantic Particle Filter Based Graph Matching for Real-Time Global Localization in Large Scale Indoor Environments
+
+Junxi Li, Biao Ma, Tian Hao, Shouwen Wang, **Hongpeng Chen**, Henry Chu
+
+_2026 IEEE International Conference on Robotics & Automation_ (Submitted)
+
+- We proposed a particle filter-based global localization framework that leverages 3D semantic graph matching to address repeated topological features and local optima in large-scale indoor environments
+</div>
+</div>
+
+- **Hongpeng Chen**, Handong Xu, Zhensheng Yang.  
    *<a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=Zn4ROH4AAAAJ&citation_for_view=Zn4ROH4AAAAJ:u-x6o8ySG0sC" target="_blank">A novel hybrid method to detect arrival times of elastic waves with low SNR based on Jensen–Shannon divergence and cumulative sum algorithm</a>.*  
    _IEEE Transactions on Instrumentation and Measurement_ 71 (2022): 1–12. <span class='show_paper_citations' data='Zn4ROH4AAAAJ:u-x6o8ySG0sC'></span>
 
-6. **Hongpeng Chen**, Zhensheng Yang.  
+- **Hongpeng Chen**, Zhensheng Yang.  
    *<a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=Zn4ROH4AAAAJ&citation_for_view=Zn4ROH4AAAAJ:u5HHmVD_uO8C" target="_blank">Arrival picking of acoustic emission signals using a hybrid algorithm based on AIC and histogram distance</a>.*  
    _IEEE Transactions on Instrumentation and Measurement_ 70 (2020): 1–8. <span class='show_paper_citations' data='Zn4ROH4AAAAJ:u5HHmVD_uO8C'></span>
 
-7. **Hongpeng Chen**, Shimin Liu, Zhiyuan Li, David Navarro-Alarcon, Pai Zheng.  
+- **Hongpeng Chen**, Shimin Liu, Zhiyuan Li, David Navarro-Alarcon, Pai Zheng.  
    *Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees.*  
    _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems_ (Accepted).
-
-8. Liqiao Xia, **Hongpeng Chen**, Jiazhen Pang, Shimin Liu, Pai Zheng.  
-   *LLM-Augmented multi-Fidelity Bayesian Optimization for Parameter Optimization in Human-Robot Collaborative Assembly.*  
-   _2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics_ (Accepted).
-
-9. Junxi Li, Biao Ma, Tian Hao, Shouwen Wang, **Hongpeng Chen**, Henry Chu.  
-   *Semantic Particle Filter Based Graph Matching for Real-Time Global Localization in Large Scale Indoor Environments.*  
-   _2026 IEEE International Conference on Robotics & Automation_ (Submitted).
 
 # 🎖 Honors and Awards
 - **PolyU Postgraduate Research Scholarship** (2023–2026)
