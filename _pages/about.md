@@ -20,13 +20,7 @@ redirect_from:
 I’m Hongpeng Chen, a Ph.D. candidate at The Hong Kong Polytechnic University, researching intelligent robotics and human-robot collaboration. I focus on integrating AI and robotics to build practical, human-centered solutions for smart manufacturing.
 
 # 🔥 Research Interests
-- Robot manipulation; 
-- Task and motion planning; 
-- Robot learning; 
-- Robot Dynamics; 
-- Simulation-to-Reality (Sim2Real); 
-- Vision-Language Model; 
-- Human-Robot Collaboration.
+Robot manipulation; Task and motion planning; Robot learning; Robot Dynamics; Simulation-to-Reality (Sim2Real); Vision-Language Model; Human-Robot Collaboration.
 
 # 📝 Publications 
 
