@@ -63,49 +63,6 @@ Robot manipulation; Task and motion planning; Robot learning; Robot Dynamics; Si
    *Semantic Particle Filter Based Graph Matching for Real-Time Global Localization in Large Scale Indoor Environments.*  
    _2026 IEEE International Conference on Robotics & Automation_ (Submitted).
 
-# 💻 Projects
-
-## A Grounded Language Model-Based Framework for Long-Horizon Robotic Planning (2024.07–2025.07)
-- Proposed a grounded multi-agent planning framework (GLaM-P) that integrates vision-language models (VLMs) and large language models (LLMs) to enable zero-shot symbolic task planning in industrial environments.
-- Developed a VLM-based hierarchical task understanding module and a PDDL-defined skill library, allowing robots to interpret human instructions and generate behavior trees for robust long-horizon task execution.
-- Designed an LLM-based zero-shot planning paradigm that translates high-level instructions into executable behavior trees without task-specific training.
-- Demonstrated superior performance on five real-world industrial tasks with over 82% success rate, outperforming baseline methods in task success, planning latency, and execution robustness.
-
-## LLM-Empowered Low-Code Drilling System for Human-Centric Smart Manufacturing (2024.07–2025.07)
-- Proposed a next-generation low-code programming framework for industrial robots that empowers unskilled operators to perform complex tasks via natural language instructions.
-- Designed a multi-agent programming module combining intent recognition, parameter parsing, and human verification, enabling robust interpretation of unstructured commands in real-world manufacturing.
-- Integrated a retrieval-augmented generation (RAG) cognitive assistant to reduce operator cognitive load using multi-source knowledge bases, including historical logs, safety manuals, and real-time environmental data.
-- Verified the system through an aircraft panel drilling case study, demonstrating that untrained workers could complete precision tasks reliably and efficiently using voice-based LLM interaction.
-
-## LLM-Augmented Bayesian Optimization in Human-Robot Collaborative Assembly (2024.05–2025.01)
-- Proposed a multi-fidelity Bayesian optimization framework that incorporates a large language model (LLM) as a physics-informed low-fidelity surrogate, aiming to reduce the need for expensive high-fidelity experiments in human-robot collaborative assembly (HRCA).
-- Designed a latent variable Gaussian process (LVGP) to link LLM predictions with high-fidelity simulations, enabling residual-based uncertainty quantification and enhancing optimization robustness across fidelity levels.
-- Implemented an iterative prompt engineering mechanism and variance-controlled LLM querying to reduce hallucination risk, systematically improving the physical reasoning quality of the low-fidelity model.
-- Demonstrated the effectiveness of the proposed framework through a robotic drilling task in aircraft cabin assembly.
-
-## Semantic Particle Filter Based Graph Matching for Real-Time Global Localization (2024.03–2024.12)
-- Proposed a particle filter-based global localization framework that leverages 3D semantic graph matching to address repeated topological features and local optima in large-scale indoor environments.
-- Introduced a dual-strategy semantic label utilization framework, combining object-level histogram descriptors and topological constraints to improve matching robustness and particle weight updating.
-- Integrated graph-matching-derived motion models with adaptive particle filtering, enhancing real-time pose estimation accuracy and convergence speed under sparse or ambiguous observations.
-- Validated on a real-world campus dataset, demonstrating superior accuracy and efficiency over baseline methods (e.g., Histogram-based, X-View, BoW).
-
-## A Survey on Human-in-the-Loop (HITL) Robot Learning for Smart Manufacturing (2023.09–2024.03)
-- Proposed a unified human-centric HITL framework that integrates human perception, cognition, behavior, and empathy to enhance robot learning and decision-making in dynamic manufacturing environments.
-- Categorized human roles in the training loop (operator, collaborator, supervisor) and introduced a four-level HITL taxonomy to systematically describe how humans contribute to robot learning processes.
-- Outlined future challenges such as sim-to-real transfer, multi-agent learning, BCI-controlled robots, and embodied intelligence integration with LLMs for Industry 5.0.
-
-## Optimization-Based Control for Ultrasound-Guided Scoliosis Assessment (2022.10–2023.06)
-- Developed a real-time ultrasound-guided robotic system for scoliosis assessment using an optimization-based control framework, formulated as a constrained quadratic programming (QP) problem.
-- Incorporated variable impedance regulation into the control loop, with gains learned from human demonstrations using GMM/GMR, enabling safe and adaptive physical human-robot interaction.
-- Validated the proposed system through both simulation and experiments on spine phantoms and human subjects.
-
-## A Robotic Line Scan System to Automatically Perform Visual Inspection Tasks (2021.10–2022.10)
-- Developed a robotic inspection framework combining line-scan imaging with a PSO-based optimal coverage path planning method for surface defect detection on 3C free-form components.
-- Introduced a hybrid region segmentation algorithm using RANSAC and enhanced K-means clustering with curvature features for accurate local scanning path definition.
-- Implemented an adaptive region-of-interest (ROI) strategy for generating local scanning paths, and formulated a global inspection path as a constrained traveling salesman problem solved by particle swarm optimization to minimize inspection time.
-- Validated the proposed method through simulation and real-world experiments on 3C components.
-
-
 # 🎖 Honors and Awards
 - **PolyU Postgraduate Research Scholarship** (2023–2026)
 - **PolyU Departmental MSc Dissertation Scholarship** (2022) – HK$60,000
