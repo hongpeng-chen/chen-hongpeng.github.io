@@ -24,7 +24,6 @@ Robot manipulation; Task and motion planning; Robot learning; Robot Dynamics; Si
 
 # 📝 Publications 
 
-## International Refereed Journals
 1. **Hongpeng Chen**, Shimin Liu, Zhiyuan Li, Liqiao Xia, David Navarro-Alarcon, Pai Zheng.  
    *GLaM-P: A grounded language model-based multi-agent system for long-horizon robotic task planning in industrial settings.*  
    _IEEE Transactions on Industrial Informatics_ (Under revision).
@@ -49,17 +48,15 @@ Robot manipulation; Task and motion planning; Robot learning; Robot Dynamics; Si
    *<a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=Zn4ROH4AAAAJ&citation_for_view=Zn4ROH4AAAAJ:u5HHmVD_uO8C" target="_blank">Arrival picking of acoustic emission signals using a hybrid algorithm based on AIC and histogram distance</a>.*  
    _IEEE Transactions on Instrumentation and Measurement_ 70 (2020): 1–8. <span class='show_paper_citations' data='Zn4ROH4AAAAJ:u5HHmVD_uO8C'></span>
 
-## International Refereed Conference Proceedings
-
-1. **Hongpeng Chen**, Shimin Liu, Zhiyuan Li, David Navarro-Alarcon, Pai Zheng.  
+7. **Hongpeng Chen**, Shimin Liu, Zhiyuan Li, David Navarro-Alarcon, Pai Zheng.  
    *Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees.*  
    _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems_ (Accepted).
 
-2. Liqiao Xia, **Hongpeng Chen**, Jiazhen Pang, Shimin Liu, Pai Zheng.  
+8. Liqiao Xia, **Hongpeng Chen**, Jiazhen Pang, Shimin Liu, Pai Zheng.  
    *LLM-Augmented multi-Fidelity Bayesian Optimization for Parameter Optimization in Human-Robot Collaborative Assembly.*  
    _2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics_ (Accepted).
 
-3. Junxi Li, Biao Ma, Tian Hao, Shouwen Wang, **Hongpeng Chen**, Henry Chu.  
+9. Junxi Li, Biao Ma, Tian Hao, Shouwen Wang, **Hongpeng Chen**, Henry Chu.  
    *Semantic Particle Filter Based Graph Matching for Real-Time Global Localization in Large Scale Indoor Environments.*  
    _2026 IEEE International Conference on Robotics & Automation_ (Submitted).
 
