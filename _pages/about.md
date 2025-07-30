@@ -31,28 +31,25 @@ Robot manipulation; Task and motion planning; Robot learning; Robot Dynamics; Si
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Industrial Informatics</div><img src='images/papers/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-GLaM-P: A grounded language model-based multi-agent system for long-horizon robotic task planning in industrial settings.
+**GLaM-P: A grounded language model-based multi-agent system for long-horizon robotic task planning in industrial settings.**
 
 **Hongpeng Chen**, Shimin Liu, Zhiyuan Li, Liqiao Xia, David Navarro-Alarcon, Pai Zheng
-
 _IEEE Transactions on Industrial Informatics_ (Under revision)
 
-- Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees.
-- We proposed a grounded multi-agent planning framework (GLaM-P) that integrates vision-language models (VLMs) and large language models (LLMs) to enable zero-shot symbolic task planning in industrial environments.
-
-Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees
+**Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees**
 
 **Hongpeng Chen**, Shimin Liu, Zhiyuan Li, David Navarro-Alarcon, Pai Zheng
 
 _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems_ (Accepted)
 
-- Related work focusing on multimodal autonomous robotic task planning using embodied language models and behavior trees for long-horizon planning scenarios.
+- We proposed a grounded multi-agent planning framework (GLaM-P) that integrates vision-language models (VLMs) and large language models (LLMs) to enable zero-shot symbolic task planning in industrial environments.
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing System</div><img src='images/papers/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Towards a next-generation LLM empowered low-code programming industrial robotic system for human-centric smart manufacturing.
+**Towards a next-generation LLM empowered low-code programming industrial robotic system for human-centric smart manufacturing.**
 
 Wenhang Dong, Dongpeng Li, Yuchen Ji, **Hongpeng Chen**, Shimin Liu, Pai Zheng
 
@@ -64,7 +61,7 @@ _Journal of Manufacturing System_ (Under revision)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Instrumentation and Measurement</div><img src='images/papers/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-PSO-based optimal coverage path planning for surface defect inspection of 3C components with a robotic line scanner
+**PSO-based optimal coverage path planning for surface defect inspection of 3C components with a robotic line scanner**
 
 **Hongpeng Chen**, Shengzeng Huo, Muhammad Muddassir, Hoi-Yin Lee, Yuli Liu, Junxi Li, Anqing Duan, Pai Zheng, David Navarro-Alarcon
 
@@ -76,7 +73,7 @@ _IEEE Transactions on Instrumentation and Measurement_ (2025), accepted. <span c
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Automation Science and Engineering</div><img src='images/papers/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Human-in-the-loop robot learning for smart manufacturing: A human-centric perspective
+**Human-in-the-loop robot learning for smart manufacturing: A human-centric perspective**
 
 **Hongpeng Chen**, Shufei Li, Junming Fan, Anqing Duan, Chenguang Yang, David Navarro-Alarcon, Pai Zheng
 
@@ -88,7 +85,7 @@ _IEEE Transactions on Automation Science and Engineering_ (2025), accepted. <spa
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ASME AIM 2025</div><img src='images/papers/5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-LLM-Augmented multi-Fidelity Bayesian Optimization for Parameter Optimization in Human-Robot Collaborative Assembly
+**LLM-Augmented multi-Fidelity Bayesian Optimization for Parameter Optimization in Human-Robot Collaborative Assembly**
 
 Liqiao Xia, **Hongpeng Chen**, Jiazhen Pang, Shimin Liu, Pai Zheng
 
@@ -100,7 +97,7 @@ _2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics_ (
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICRA 2026</div><img src='images/papers/6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Semantic Particle Filter Based Graph Matching for Real-Time Global Localization in Large Scale Indoor Environments
+**Semantic Particle Filter Based Graph Matching for Real-Time Global Localization in Large Scale Indoor Environments**
 
 Junxi Li, Biao Ma, Tian Hao, Shouwen Wang, **Hongpeng Chen**, Henry Chu
 
