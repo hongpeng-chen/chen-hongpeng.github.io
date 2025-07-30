@@ -39,6 +39,14 @@ _IEEE Transactions on Industrial Informatics_ (Under revision)
 
 - Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees.
 - We proposed a grounded multi-agent planning framework (GLaM-P) that integrates vision-language models (VLMs) and large language models (LLMs) to enable zero-shot symbolic task planning in industrial environments.
+
+**Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees**
+
+**Hongpeng Chen**, Shimin Liu, Zhiyuan Li, David Navarro-Alarcon, Pai Zheng
+
+_2025 IEEE/RSJ International Conference on Intelligent Robots and Systems_ (Accepted)
+
+- Related work focusing on multimodal autonomous robotic task planning using embodied language models and behavior trees for long-horizon planning scenarios.
 </div>
 </div>
 
@@ -102,17 +110,6 @@ _2026 IEEE International Conference on Robotics & Automation_ (Submitted)
 </div>
 </div>
 
-- **Hongpeng Chen**, Handong Xu, Zhensheng Yang.  
-   *<a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=Zn4ROH4AAAAJ&citation_for_view=Zn4ROH4AAAAJ:u-x6o8ySG0sC" target="_blank">A novel hybrid method to detect arrival times of elastic waves with low SNR based on Jensen–Shannon divergence and cumulative sum algorithm</a>.*  
-   _IEEE Transactions on Instrumentation and Measurement_ 71 (2022): 1–12. <span class='show_paper_citations' data='Zn4ROH4AAAAJ:u-x6o8ySG0sC'></span>
-
-- **Hongpeng Chen**, Zhensheng Yang.  
-   *<a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=Zn4ROH4AAAAJ&citation_for_view=Zn4ROH4AAAAJ:u5HHmVD_uO8C" target="_blank">Arrival picking of acoustic emission signals using a hybrid algorithm based on AIC and histogram distance</a>.*  
-   _IEEE Transactions on Instrumentation and Measurement_ 70 (2020): 1–8. <span class='show_paper_citations' data='Zn4ROH4AAAAJ:u5HHmVD_uO8C'></span>
-
-- **Hongpeng Chen**, Shimin Liu, Zhiyuan Li, David Navarro-Alarcon, Pai Zheng.  
-   *Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees.*  
-   _2025 IEEE/RSJ International Conference on Intelligent Robots and Systems_ (Accepted).
 
 # 🎖 Honors and Awards
 - **PolyU Postgraduate Research Scholarship** (2023–2026)
