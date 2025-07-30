@@ -26,7 +26,7 @@ I’m Hongpeng Chen, a Ph.D. candidate at The Hong Kong Polytechnic University, 
 - Robot Dynamics; 
 - Simulation-to-Reality (Sim2Real); 
 - Vision-Language Model; 
-- Human-Robot Collaboration
+- Human-Robot Collaboration.
 
 # 📝 Publications 
 
