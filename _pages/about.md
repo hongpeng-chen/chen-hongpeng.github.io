@@ -29,7 +29,7 @@ Robot manipulation; Task and motion planning; Robot learning; Robot Dynamics; Si
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Industrial Informatics</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Industrial Informatics</div><img src='images/papers/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 GLaM-P: A grounded language model-based multi-agent system for long-horizon robotic task planning in industrial settings.
 
@@ -42,7 +42,7 @@ _IEEE Transactions on Industrial Informatics_ (Under revision)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing System</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing System</div><img src='images/papers/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Towards a next-generation LLM empowered low-code programming industrial robotic system for human-centric smart manufacturing.
 
@@ -54,7 +54,7 @@ _Journal of Manufacturing System_ (Under revision)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Instrumentation and Measurement</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Instrumentation and Measurement</div><img src='images/papers/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 PSO-based optimal coverage path planning for surface defect inspection of 3C components with a robotic line scanner
 
@@ -66,7 +66,7 @@ _IEEE Transactions on Instrumentation and Measurement_ (2025), accepted. <span c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Automation Science and Engineering</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Automation Science and Engineering</div><img src='images/papers/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Human-in-the-loop robot learning for smart manufacturing: A human-centric perspective
 
@@ -78,7 +78,7 @@ _IEEE Transactions on Automation Science and Engineering_ (2025), accepted. <spa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ASME AIM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ASME AIM 2025</div><img src='images/papers/5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 LLM-Augmented multi-Fidelity Bayesian Optimization for Parameter Optimization in Human-Robot Collaborative Assembly
 
@@ -90,7 +90,7 @@ _2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics_ (
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICRA 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICRA 2026</div><img src='images/papers/6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Semantic Particle Filter Based Graph Matching for Real-Time Global Localization in Large Scale Indoor Environments
 
